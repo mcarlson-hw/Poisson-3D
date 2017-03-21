@@ -156,14 +156,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CubeMesh.cpp" />
-    <ClCompile Include="Ex1-Sequential.cpp" />
-    <ClCompile Include="Ex2-Parallel.cpp" />
     <ClCompile Include="Poisson.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CubeMesh.h" />
-    <ClInclude Include="Ex1-Sequential.h" />
-    <ClInclude Include="Ex2-Parallel.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
