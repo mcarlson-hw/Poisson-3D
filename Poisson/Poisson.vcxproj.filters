@@ -27,12 +27,18 @@
     <ClCompile Include="Ex1-Sequential.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ex2-Parallel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CubeMesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Ex1-Sequential.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex2-Parallel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

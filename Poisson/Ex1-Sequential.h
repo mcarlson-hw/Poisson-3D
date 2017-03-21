@@ -1,3 +1,2 @@
 #pragma once
-// Hello from my desktop!
-// Hello from my laptop!
+void Ex1_Sequential();
